@@ -13,7 +13,7 @@ Explanation of a palindrome: integer is palindrome, when it reads same forward a
 100 is not a palindrome, because from right to left it is: 001, but 202 is a palindrome, because from right to left
 it is: 202.
 
-## Roman to integer
+## 3. Roman to integer
 we have a string of roman numbers.
 with the help of this function, it is possible to convert the Roman numeral to its integer equivalent.
 The function evaluates each character in the string, checks if the current numeral is smaller than the next, and accordingly adds or subtracts the values to get the final integer representation.
